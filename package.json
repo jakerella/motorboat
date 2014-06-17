@@ -1,6 +1,6 @@
 {
   "name": "motorboat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A command-line tool for interacting with Digital Ocean.",
   "main": "index.js",
   "scripts": {
