@@ -1,6 +1,6 @@
 {
   "name": "motorboat",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A library that allows you to provision Digital Ocean droplets (instances) from a series of one or more Bash scripts.",
   "main": "index.js",
   "keywords": [
